@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlatformerGame-Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PlatformerGame_Java_jar</output-path>
+    <root id="archive" name="PlatformerGame-Java.jar">
+      <element id="module-output" name="PlatformerGame-Java" />
+    </root>
+  </artifact>
+</component>
